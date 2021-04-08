@@ -1,0 +1,3 @@
+Thank you for downloading SLEEP.EXE!
+put SLEEP.EXE on your desktop shift+rightclick and select "Open Command Promt here"
+type sleep -help to get help for code in BAT FILE!
